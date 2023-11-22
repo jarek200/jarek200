@@ -1,4 +1,4 @@
-Cover letter: Jarek Wyprzal - Frontend Developer 
+About Me:
 
 I am a Frontend Developer with expertise in the modern JavaScript stack, including React, JavaScript, and TypeScript. With a strong focus on continuous improvement and staying up-to-date with the latest web technologies, I am actively seeking opportunities to contribute my skills and expertise within an Agile organization.
 
