@@ -1,6 +1,6 @@
 About Me:
 
-I am a Frontend Developer with expertise in the modern JavaScript stack, including React, JavaScript, and TypeScript. With a strong focus on continuous improvement and staying up-to-date with the latest web technologies, I am actively seeking opportunities to contribute my skills and expertise within an Agile organization.
+I am a Software Developer with expertise in the modern JavaScript stack, including React, JavaScript, and TypeScript. With a strong focus on continuous improvement and staying up-to-date with the latest web technologies, I am actively seeking opportunities to contribute my skills and expertise within an Agile organization.
 
 With over nine years of experience in the aerospace and automotive industries, where I successfully designed and developed processes, I have decided to switch careers and follow my true passion for software development. I enrolled in a traineeship program at IT Career Switch, which provided me with a comprehensive skill set and deepened my knowledge in various software development aspects. This experience solidified my commitment to pursuing a fulfilling career as a software developer.
 
