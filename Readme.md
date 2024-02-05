@@ -12,7 +12,7 @@ adapting my problem-solving abilities and attention to detail to excel in the dy
 
 💻 Programming Languages: JavaScript, TypeScript
 
-🔧 Technologies & Tools: React.js, Angular, Figma,  Redux, Git, GitHub, Cypress, Jest, Node.js, jQuery, Express.js, GraphQL, Material-UI, OAuth2, JWT, Webpack, PostgreSQL, RESTful APIs, Jira, AI Coding Tools (ChatGPT, GitHub Copilot)
+🔧 Technologies & Tools: React.js, Angular, Figma,  Redux, Git, GitHub, Cypress, Jest, Node.js, jQuery, Express.js, GraphQL, Material-UI, Tailwind, OAuth2, JWT, Webpack, PostgreSQL, RESTful APIs, Jira, AI Coding Tools (ChatGPT, GitHub Copilot)
 
 ☁️ Cloud: CI/CD, Docker, GitLab, AWS (S3, ECS, ECR)
 
