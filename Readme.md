@@ -1,12 +1,13 @@
  About Me: 
  
- I am a Full Stack Developer with expertise in the modern JavaScript stack, including React, JavaScript, and TypeScript. 
- I have designed and implemented robust Continuous Integration and Continuous Deployment (CI/CD) pipelines using GitLab CI, Docker, AWS ECR, and ECS.
- Additionally, I have implemented AI technology to automate the creation of application documents, significantly reducing manual effort from 45 minutes to just 3 minutes per document.
+👨‍💻 Full Stack Developer with expertise in the modern JavaScript stack, including React, TypeScript, and Node.js. 
+Designed and implemented robust Continuous Integration and Continuous Deployment (CI/CD) pipelines using GitLab CI, Docker, AWS (ECR, ECS).
+Successfully implemented AI technology to automate the creation of application documents, resulting in a significant decrease in manual effort from 45 minutes to just 3 minutes per document.
+
  
-🛠️ My career smoothly transitioned from aerospace development to full-stack software development, driven by continuous learning.
-I leveraged my technical and analytical skills from aerospace to address the complexities of software engineering,
-adapting my problem-solving abilities and attention to detail to excel in the dynamic tech landscape.
+🛠️ My coding journey started in high school with small websites, leading me to full-stack projects. Driven by a passion for technology, 
+I've embraced continuous learning to advance my skills. This commitment has propelled my career forward in the ever-evolving tech landscape.
+
 
 🚀 Personal Motto: "Code transforms ideas into reality, shaping the future with every line."
 
