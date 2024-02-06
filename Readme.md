@@ -13,7 +13,7 @@ I've embraced continuous learning to advance my skills. This commitment has prop
 
 💻 Programming Languages: JavaScript, TypeScript
 
-🔧 Technologies & Tools: React.js, Angular, Figma,  Redux, Git, GitHub, Cypress, Jest, Node.js, jQuery, Express.js, GraphQL, Material-UI, Tailwind, OAuth2, JWT, Webpack, PostgreSQL, RESTful APIs, Jira, AI Coding Tools (ChatGPT, GitHub Copilot)
+🔧 Technologies & Tools: React.js, Angular, Figma,  Redux, Git, GitHub, Cypress, Jest, Node.js, jQuery, Express.js, GraphQL, Material-UI, Tailwind, Bootstrap, OAuth2, JWT, Webpack, PostgreSQL, RESTful APIs, Jira, AI Coding Tools (ChatGPT, GitHub Copilot)
 
 ☁️ Cloud: CI/CD, Docker, GitLab, AWS (S3, ECS, ECR)
 
