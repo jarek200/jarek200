@@ -1,24 +1,17 @@
- About Me: 
- 
-👨‍💻 Full Stack Developer with expertise in the modern JavaScript stack, including React, TypeScript, and Node.js. 
-Designed and implemented robust Continuous Integration and Continuous Deployment (CI/CD) pipelines using GitLab CI, Docker, AWS (ECR, ECS).
+👨‍💻 Backend & Cloud Engineer specialising in AWS cloud architecture, AI-powered systems, and infrastructure-as-code. I design, build, and operate scalable backend platforms and cloud environments using TypeScript, Node.js, AWS, Terraform and CI/CD automation. My experience covers the full lifecycle, from architecture and development through to deployment, monitoring and ongoing improvements.
 
+☁️ Strong focus on serverless, event-driven and cloud-native systems using AWS services such as Lambda, API Gateway, EventBridge, Step Functions, DynamoDB, AppSync, Cognito, ECS, CloudFront, S3 and Bedrock. Experienced in building production-ready AI systems, including Bedrock, AgentCore, serverless workflows and observability.
 
- 
-🛠️ My coding journey started in high school with small websites, leading me to full-stack projects. Driven by a passion for technology, 
-I've embraced continuous learning to advance my skills. This commitment has propelled my career forward in the ever-evolving tech landscape.
+🛠️ I enjoy taking full end-to-end ownership and currently manage several client platforms from design through to production. This includes designing Terraform-managed AWS infrastructure, creating CI/CD pipelines with GitHub Actions and OIDC, improving reliability and reducing cloud costs.
 
+🚀 My coding journey started with small websites and has grown into building distributed systems, cloud platforms and AI-powered applications. I enjoy learning new technologies and turning complex problems into simple, scalable solutions.
 
-🚀 Personal Motto: "Code transforms ideas into reality, shaping the future with every line."
+💻 Programming Languages: TypeScript, JavaScript, Python, SQL
 
-💻 Programming Languages: JavaScript, TypeScript
+🔧 Technologies & Tools: Node.js, Express.js, React, SvelteKit, GraphQL, AppSync, DynamoDB, PostgreSQL, Terraform, Docker, GitHub Actions, Git, GitHub, Nx, Tailwind, ShadCN, Jest, Cypress, OAuth2, JWT, REST APIs, CloudWatch, Sentry, AI Coding Tools (ChatGPT, GitHub Copilot)
 
-🔧 Technologies & Tools: React.js, Angular, Figma,  Redux, Git, GitHub, Cypress, Jest, Node.js, jQuery, Express.js, GraphQL, Material-UI, Tailwind, Bootstrap, OAuth2, JWT, Webpack, PostgreSQL, RESTful APIs, Jira, AI Coding Tools (ChatGPT, GitHub Copilot)
+☁️ Cloud & DevOps: AWS, Terraform, CI/CD, GitHub Actions, Docker, ECS, ECR, Lambda, API Gateway, Step Functions, EventBridge, DynamoDB, Cognito, CloudFront, S3, Bedrock, Kubernetes, KCNA
 
-☁️ Cloud: CI/CD, Docker, GitLab, AWS (S3, ECS, ECR)
+📊 Methodologies: Agile, Scrum, Infrastructure as Code, Event-Driven Architecture, Microservices, Serverless
 
-📊 Methodologies: Scrum, Agile
-
-🌐 Interests: Microservices Architecture, Cloud Computing, Containerization, Web Performance
-
-
+🌐 Interests: AI Infrastructure, Distributed Systems, Platform Engineering, Cloud Architecture, Kubernetes, Serverless, Cost Optimisation
