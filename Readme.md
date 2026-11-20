@@ -1,4 +1,4 @@
-👨‍💻 Backend & Cloud Engineer specialising in AWS cloud architecture, AI-powered systems, and infrastructure-as-code. I design, build, and operate scalable backend platforms and cloud environments using TypeScript, Node.js, AWS, Terraform and CI/CD automation. My experience covers the full lifecycle, from architecture and development through to deployment, monitoring and ongoing improvements.
+👨‍💻 Cloud Engineer & Backend &specialising in AWS cloud architecture, AI-powered systems, and infrastructure-as-code. I design, build, and operate scalable backend platforms and cloud environments using TypeScript, Node.js, AWS, Terraform and CI/CD automation. My experience covers the full lifecycle, from architecture and development through to deployment, monitoring and ongoing improvements.
 
 ☁️ Strong focus on serverless, event-driven and cloud-native systems using AWS services such as Lambda, API Gateway, EventBridge, Step Functions, DynamoDB, AppSync, Cognito, ECS, CloudFront, S3 and Bedrock. Experienced in building production-ready AI systems, including Bedrock, AgentCore, serverless workflows and observability.
 
